@@ -3,7 +3,7 @@ import numpy as np
 import sys
 import cv2 as cv
 
-########### image with 2D convolution ############
+########### image with 2D convolution part ############
 
 image = cv2.imread('image.jpg')
 
